@@ -1,0 +1,61 @@
+<resources>
+  <string name="app_name">World Explorer</string>
+  <string name="intro">Explore the world</string>
+  <string name="next">Next</string>
+  <string name="cold">Cold</string>
+  <string name="medium">Medium</string>
+  <string name="hot">Hot</string>
+  <string name="urban">Urban</string>
+  <string name="rural">Rural</string>
+  <string name="restart">Restart</string>
+  <string name="result">Result</string>
+  <string name="template_results">Climate is %1$s\nCommunity is %2$s</string>
+  <string-array name="place_names">
+    <item>San Francisico</item>
+    <item>Barcelona</item>
+    <item>Djibouti</item>
+    <item>Mumbai</item>
+    <item>Brasilia</item>
+    <item>Amalfi</item>
+    <item>Oslo</item>
+    <item>Tierra del Fuego</item>
+    <item>Mount Fuji</item>
+    <item>Serengeti National Park</item>
+  </string-array>
+  <string-array name="place_coords">
+    <item>37.7576792,-122.5078121</item>
+    <item>41.3926466,2.0699771</item>
+    <item>11.8111149,41.5031348</item>
+    <item>19.0821976,-72.7407546</item>
+    <item>-15.7217173,-48.0777896</item>
+    <item>40.6309876,14.5741152</item>
+    <item>59.8937803,10.6446911</item>
+    <item>-54.1710214,-67.2133469</item>
+    <item>35.3602414,138.7063819</item>
+    <item>-2.3333279,34.828854</item>
+  </string-array>
+  <string-array name="place_climates">
+    <item>TEMPERATE</item>
+    <item>TEMPERATE</item>
+    <item>TROPICAL</item>
+    <item>TROPICAL</item>
+    <item>TROPICAL</item>
+    <item>TEMPERATE</item>
+    <item>COLD</item>
+    <item>COLD</item>
+    <item>TEMPERATE</item>
+    <item>TROPICAL</item>
+  </string-array>
+  <string-array name="place_communities">
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>URBAN</item>
+    <item>RURAL</item>
+    <item>RURAL</item>
+    <item>RURAL</item>
+  </string-array>
+</resources>
